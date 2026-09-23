@@ -1,9 +1,6 @@
 {
   "env": {
     "NEXT_PUBLIC_SITE_URL": "https://amrit-protfolio.vercel.app",
-    "RESEND_API_KEY": "",
-    "INQUIRY_TO_EMAIL": "",
-    "INQUIRY_FROM_EMAIL": "",
     "ADMIN_PASSWORD": "admin123",
     "DATA_DIR": "/tmp/chef-data"
   }
