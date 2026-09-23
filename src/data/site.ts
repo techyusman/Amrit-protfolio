@@ -4,7 +4,7 @@ import { images } from "./images";
 export const site: SiteConfig = {
   name: "Chef Amrit Pal Singh",
   shortName: "Amrit Pal Singh",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://chefamritpalsingh.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://chefamritpalsingh.com",
   description:
     "Chef Amrit Pal Singh, owner and head chef of Michelin Bib Gourmand–awarded Angel Indian Restaurant in Jackson Heights, Queens. Private dining, tasting menus and bespoke culinary experiences rooted in India.",
   locale: "en_US",

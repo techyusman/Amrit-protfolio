@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SITE_URL": "https://amrit-protfolio.vercel.app"
+    }
+  },
   "env": {
     "NEXT_PUBLIC_SITE_URL": "https://amrit-protfolio.vercel.app",
     "ADMIN_PASSWORD": "admin123",
